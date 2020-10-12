@@ -17,3 +17,7 @@ Inspiration and various binaries taken from:
 # Known issues
 
 - After all this docker is stuck in "starting" state... :disappointed::sob:
+
+# Updates
+
+- This old docker [https://download.docker.com/mac/stable/21090/Docker.dmg](https://download.docker.com/mac/stable/21090/Docker.dmg) works well. :+1::innocent:
